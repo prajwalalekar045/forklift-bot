@@ -1,0 +1,10 @@
+*.egg-info/
+*.psd
+*.pyc
+.DS_Store
+.pytest_cache/
+.vscode/
+__pycache__/
+build/
+install/
+log/
